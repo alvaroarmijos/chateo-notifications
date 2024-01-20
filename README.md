@@ -19,14 +19,4 @@ This Flutter application leverages the power of Firebase and Cloud Functions to 
 
 Feel free to explore the code, contribute, or use it as a reference for your own projects. Happy coding! 🌐💬
 
-## Screenshots
-
-<p>
-    <img src="./docs/1.png" width="200"/ hspace="5"> 
-    <img src="./docs/2.png" width="200"/ hspace="5"> 
-    <img src="./docs/3.png" width="200"/ hspace="5"> 
-    <img src="./docs/4.png" width="200"/ hspace="5"> 
-    <img src="./docs/5.png" width="200"/ hspace="5"> 
-</p>
-
 Find the repository for the Mobile Application [here](https://github.com/alvaroarmijos/chateo).
